@@ -1,0 +1,7 @@
+sur free mobile activer l'option gratuite de appi sms
+
+- user : votre login d'intentification à free mobile ligne 9 du js
+
+- pass : votre clé d’identification générée automatiquement par le service free mobile api ligne 10 du js
+
+Mathilde notification votre phrase
